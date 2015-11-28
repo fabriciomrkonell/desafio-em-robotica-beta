@@ -1,3 +1,3 @@
-<img src="/img/beta.jpeg"/>
+<img src="/beta.jpeg"/>
 
 Code of robot Beta.
