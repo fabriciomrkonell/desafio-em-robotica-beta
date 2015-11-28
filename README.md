@@ -1,2 +1,3 @@
-# desafio-em-robotica-beta
+<img src="/img/beta.jpeg"/>
+
 Code of robot Beta.
